@@ -1,6 +1,6 @@
 Getting started with Karma project files to accompany blog post:
 
-[URL FOR BLOG POST HERE]
+http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/
 
 Dependencies:
 
