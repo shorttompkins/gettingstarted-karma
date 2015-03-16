@@ -20,5 +20,5 @@ $ karma start karma.conf.js
 For single run test:
 
 ```
-$karma start karma.conf.js --single-run --browsers PhantomJS
+$ karma start karma.conf.js --single-run --browsers PhantomJS
 ```
